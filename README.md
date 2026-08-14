@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31080463/README.md)
-# IFT542_assignment# IFT 542 — Security Assessment and Hardening of a Student Registration Web Application
+# IFT 542 — Security Assessment and Hardening of a Student Registration Web Application
 
 **Student:** Uchenna Silas Ndulue &nbsp;·&nbsp; **Matric No:** 2021/1/84016CF &nbsp;·&nbsp; **Department:** Information Technology
 **Course:** IFT 542 — Practical Assignment &nbsp;·&nbsp; **Date:** 2026-08-13
